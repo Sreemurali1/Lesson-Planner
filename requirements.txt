@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+PyPDF2
+google-generativeai
+langchain
+langchain-community
+faiss-cpu
+langchain-google-genai
+streamlit
+requests
+streamlit-option-menu
+cohere
+langchain-cohere
